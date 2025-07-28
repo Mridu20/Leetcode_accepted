@@ -11,13 +11,6 @@ public:
             tt[t[i]]++;
         }
 
-        for(int i=0; i<s.size(); i++){
-
-            if(ss[s[i]] != tt[s[i]]){
-                return false;
-            }
-        }
-
-        return true;
+        return ss == tt;
     }
 };
