@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Mridu20/Leetcode_accepted/tree/master/0035-search-insert-position) |
+| [0228-summary-ranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0228-summary-ranges) |
 ## Binary Search
 |  |
 | ------- |
