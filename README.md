@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |
