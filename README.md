@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Mridu20/Leetcode_accepted/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0228-summary-ranges) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
