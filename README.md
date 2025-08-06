@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Mridu20/Leetcode_accepted/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
