@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0172-factorial-trailing-zeroes) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
