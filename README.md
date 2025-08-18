@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String Matching
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
