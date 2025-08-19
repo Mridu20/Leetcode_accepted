@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0228-summary-ranges) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Mridu20/Leetcode_accepted/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mridu20/Leetcode_accepted/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Recursion
