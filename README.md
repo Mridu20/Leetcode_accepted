@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mridu20/Leetcode_accepted/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
