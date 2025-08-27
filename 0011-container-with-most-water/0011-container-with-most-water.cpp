@@ -12,9 +12,6 @@ public:
             if(h[i] < h[j]){
                 i++;
             }
-            else if(h[i] > h[j]){
-                j--;
-            }
             else j--;
         }
 
