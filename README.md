@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Mridu20/Leetcode_accepted/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/2058-concatenation-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2481-strictly-palindromic-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
