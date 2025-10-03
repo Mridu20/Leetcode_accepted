@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/Mridu20/Leetcode_accepted/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
