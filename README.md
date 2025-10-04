@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mridu20/Leetcode_accepted/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
