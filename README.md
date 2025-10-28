@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
