@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-maximum-achievable-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
