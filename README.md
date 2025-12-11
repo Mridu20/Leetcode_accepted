@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mridu20/Leetcode_accepted/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mridu20/Leetcode_accepted/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
