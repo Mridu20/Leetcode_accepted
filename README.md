@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/3379-score-of-a-string) |
+| [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
