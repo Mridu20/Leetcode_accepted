@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mridu20/Leetcode_accepted/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mridu20/Leetcode_accepted/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mridu20/Leetcode_accepted/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
