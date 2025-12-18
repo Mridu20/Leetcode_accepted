@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Mridu20/Leetcode_accepted/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
