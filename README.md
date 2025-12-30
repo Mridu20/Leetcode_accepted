@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mridu20/Leetcode_accepted/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mridu20/Leetcode_accepted/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
