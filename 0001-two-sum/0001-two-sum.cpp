@@ -1,18 +1,16 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& n, int target) {
-        vector<int> sol;
-
-        for(int i=0; i<n.size(); i++){
-            for(int j=i+1;j<n.size(); j++){
-                if(n[i]+n[j] == target){
-                    sol.push_back(i);
-                    sol.push_back(j);
-                    return sol;
-                }
+    vector<int> twoSum(vector<int> &n, int t) {
+        unordered_map<int, int> mp;
+        for (int i = 0; i < n.size(); i++) {
+            mp[n[i]] = i;
+        }
+        for (int i = 0; i < n.size(); i++) {
+            int d = t - n[i];
+            if (mp.find(d) != mp.end() && mp[d] != i) {
+                return {i, mp[d]};
             }
         }
-
-        return sol;
+        return {};
     }
 };
