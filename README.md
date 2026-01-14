@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Mridu20/Leetcode_accepted/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Mridu20/Leetcode_accepted/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mridu20/Leetcode_accepted/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
