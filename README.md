@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Mridu20/Leetcode_accepted/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Mridu20/Leetcode_accepted/tree/master/0704-binary-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Mridu20/Leetcode_accepted/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mridu20/Leetcode_accepted/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Mridu20/Leetcode_accepted/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
