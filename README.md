@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Mridu20/Leetcode_accepted/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Mridu20/Leetcode_accepted/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/1929-concatenation-of-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mridu20/Leetcode_accepted/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0073-set-matrix-zeroes) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
