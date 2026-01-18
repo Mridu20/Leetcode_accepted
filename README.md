@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Mridu20/Leetcode_accepted/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Mridu20/Leetcode_accepted/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
