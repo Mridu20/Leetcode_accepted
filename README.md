@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mridu20/Leetcode_accepted/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Mridu20/Leetcode_accepted/tree/master/0031-next-permutation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Mridu20/Leetcode_accepted/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mridu20/Leetcode_accepted/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mridu20/Leetcode_accepted/tree/master/0035-search-insert-position) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mridu20/Leetcode_accepted/tree/master/0075-sort-colors) |
