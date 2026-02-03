@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/Mridu20/Leetcode_accepted/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridu20/Leetcode_accepted/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mridu20/Leetcode_accepted/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mridu20/Leetcode_accepted/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Mridu20/Leetcode_accepted/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridu20/Leetcode_accepted/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mridu20/Leetcode_accepted/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
