@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Mridu20/Leetcode_accepted/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
