@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Mridu20/Leetcode_accepted/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0493-reverse-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mridu20/Leetcode_accepted/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mridu20/Leetcode_accepted/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mridu20/Leetcode_accepted/tree/master/0704-binary-search) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Mridu20/Leetcode_accepted/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/0560-subarray-sum-equals-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridu20/Leetcode_accepted/tree/master/2483-minimum-penalty-for-a-shop) |
