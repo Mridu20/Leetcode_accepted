@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0401-binary-watch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
