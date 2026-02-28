@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
+| [0796-rotate-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0796-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Mridu20/Leetcode_accepted/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
