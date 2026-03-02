@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1205-defanging-an-ip-address](https://github.com/Mridu20/Leetcode_accepted/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridu20/Leetcode_accepted/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridu20/Leetcode_accepted/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Union-Find
 |  |
