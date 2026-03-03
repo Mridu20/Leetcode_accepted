@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridu20/Leetcode_accepted/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mridu20/Leetcode_accepted/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
