@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mridu20/Leetcode_accepted/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mridu20/Leetcode_accepted/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Brainteaser
