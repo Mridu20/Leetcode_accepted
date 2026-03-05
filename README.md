@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mridu20/Leetcode_accepted/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0190-reverse-bits) |
