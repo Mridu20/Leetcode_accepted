@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mridu20/Leetcode_accepted/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0338-counting-bits) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mridu20/Leetcode_accepted/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
