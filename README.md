@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mridu20/Leetcode_accepted/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 ## Prefix Sum
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
