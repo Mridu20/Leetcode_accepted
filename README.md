@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mridu20/Leetcode_accepted/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2481-strictly-palindromic-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mridu20/Leetcode_accepted/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
