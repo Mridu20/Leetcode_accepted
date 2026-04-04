@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mridu20/Leetcode_accepted/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Mridu20/Leetcode_accepted/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mridu20/Leetcode_accepted/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Mridu20/Leetcode_accepted/tree/master/3828-final-element-after-subarray-deletions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -400,12 +402,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2481-strictly-palindromic-number) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Mridu20/Leetcode_accepted/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Mridu20/Leetcode_accepted/tree/master/3828-final-element-after-subarray-deletions) |
 ## Number Theory
 |  |
 | ------- |
