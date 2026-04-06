@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mridu20/Leetcode_accepted/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mridu20/Leetcode_accepted/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Mridu20/Leetcode_accepted/tree/master/1390-four-divisors) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Mridu20/Leetcode_accepted/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mridu20/Leetcode_accepted/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mridu20/Leetcode_accepted/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridu20/Leetcode_accepted/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
