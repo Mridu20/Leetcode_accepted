@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Mridu20/Leetcode_accepted/tree/master/1390-four-divisors) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mridu20/Leetcode_accepted/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mridu20/Leetcode_accepted/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mridu20/Leetcode_accepted/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mridu20/Leetcode_accepted/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mridu20/Leetcode_accepted/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mridu20/Leetcode_accepted/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridu20/Leetcode_accepted/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
