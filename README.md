@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mridu20/Leetcode_accepted/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridu20/Leetcode_accepted/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0796-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Mridu20/Leetcode_accepted/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mridu20/Leetcode_accepted/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/Mridu20/Leetcode_accepted/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mridu20/Leetcode_accepted/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridu20/Leetcode_accepted/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Union-Find
