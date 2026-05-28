@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Mridu20/Leetcode_accepted/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mridu20/Leetcode_accepted/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Mridu20/Leetcode_accepted/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridu20/Leetcode_accepted/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mridu20/Leetcode_accepted/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mridu20/Leetcode_accepted/tree/master/0141-linked-list-cycle) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mridu20/Leetcode_accepted/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Mridu20/Leetcode_accepted/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mridu20/Leetcode_accepted/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
