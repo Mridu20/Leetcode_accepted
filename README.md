@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mridu20/Leetcode_accepted/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2126-destroying-asteroids](https://github.com/Mridu20/Leetcode_accepted/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mridu20/Leetcode_accepted/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mridu20/Leetcode_accepted/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/1200-minimum-absolute-difference) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2126-destroying-asteroids](https://github.com/Mridu20/Leetcode_accepted/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mridu20/Leetcode_accepted/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mridu20/Leetcode_accepted/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2126-destroying-asteroids](https://github.com/Mridu20/Leetcode_accepted/tree/master/2126-destroying-asteroids) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mridu20/Leetcode_accepted/tree/master/3074-apple-redistribution-into-boxes) |
