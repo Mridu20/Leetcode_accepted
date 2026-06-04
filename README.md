@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Mridu20/Leetcode_accepted/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Mridu20/Leetcode_accepted/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridu20/Leetcode_accepted/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mridu20/Leetcode_accepted/tree/master/0162-find-peak-element) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Mridu20/Leetcode_accepted/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridu20/Leetcode_accepted/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mridu20/Leetcode_accepted/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Mridu20/Leetcode_accepted/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mridu20/Leetcode_accepted/tree/master/0160-intersection-of-two-linked-lists) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mridu20/Leetcode_accepted/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0338-counting-bits) |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
 ## Enumeration
 |  |
 | ------- |
