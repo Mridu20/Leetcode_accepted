@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Mridu20/Leetcode_accepted/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Mridu20/Leetcode_accepted/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mridu20/Leetcode_accepted/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mridu20/Leetcode_accepted/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mridu20/Leetcode_accepted/tree/master/0069-sqrtx) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Mridu20/Leetcode_accepted/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Mridu20/Leetcode_accepted/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0070-climbing-stairs) |
@@ -664,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mridu20/Leetcode_accepted/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mridu20/Leetcode_accepted/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
