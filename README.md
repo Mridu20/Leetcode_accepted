@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mridu20/Leetcode_accepted/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Mridu20/Leetcode_accepted/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mridu20/Leetcode_accepted/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/0493-reverse-pairs) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mridu20/Leetcode_accepted/tree/master/0451-sort-characters-by-frequency) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
