@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridu20/Leetcode_accepted/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2574-left-and-right-sum-differences) |
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Quickselect
 |  |
 | ------- |
