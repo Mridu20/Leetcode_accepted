@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mridu20/Leetcode_accepted/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridu20/Leetcode_accepted/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mridu20/Leetcode_accepted/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Mridu20/Leetcode_accepted/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mridu20/Leetcode_accepted/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mridu20/Leetcode_accepted/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mridu20/Leetcode_accepted/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mridu20/Leetcode_accepted/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mridu20/Leetcode_accepted/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0662-maximum-width-of-binary-tree) |
@@ -729,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Mridu20/Leetcode_accepted/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mridu20/Leetcode_accepted/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mridu20/Leetcode_accepted/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
