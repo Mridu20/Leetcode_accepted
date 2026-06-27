@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mridu20/Leetcode_accepted/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mridu20/Leetcode_accepted/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0204-count-primes) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
