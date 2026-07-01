@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mridu20/Leetcode_accepted/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mridu20/Leetcode_accepted/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mridu20/Leetcode_accepted/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1539-kth-missing-positive-number) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mridu20/Leetcode_accepted/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Brainteaser
 |  |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mridu20/Leetcode_accepted/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Mridu20/Leetcode_accepted/tree/master/0547-number-of-provinces) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mridu20/Leetcode_accepted/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
@@ -739,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
