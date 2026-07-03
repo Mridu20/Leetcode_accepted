@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mridu20/Leetcode_accepted/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/Mridu20/Leetcode_accepted/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridu20/Leetcode_accepted/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridu20/Leetcode_accepted/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridu20/Leetcode_accepted/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
