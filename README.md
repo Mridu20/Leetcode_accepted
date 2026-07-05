@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mridu20/Leetcode_accepted/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mridu20/Leetcode_accepted/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Mridu20/Leetcode_accepted/tree/master/1390-four-divisors) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Mridu20/Leetcode_accepted/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mridu20/Leetcode_accepted/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mridu20/Leetcode_accepted/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3620-network-recovery-pathways](https://github.com/Mridu20/Leetcode_accepted/tree/master/3620-network-recovery-pathways) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Mridu20/Leetcode_accepted/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0994-rotting-oranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mridu20/Leetcode_accepted/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1582-special-positions-in-a-binary-matrix) |
