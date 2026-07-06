@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mridu20/Leetcode_accepted/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mridu20/Leetcode_accepted/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Mridu20/Leetcode_accepted/tree/master/1390-four-divisors) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Mridu20/Leetcode_accepted/tree/master/1288-remove-covered-intervals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2126-destroying-asteroids](https://github.com/Mridu20/Leetcode_accepted/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mridu20/Leetcode_accepted/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
