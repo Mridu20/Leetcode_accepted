@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/Mridu20/Leetcode_accepted/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mridu20/Leetcode_accepted/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mridu20/Leetcode_accepted/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mridu20/Leetcode_accepted/tree/master/0485-max-consecutive-ones) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mridu20/Leetcode_accepted/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mridu20/Leetcode_accepted/tree/master/0290-word-pattern) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mridu20/Leetcode_accepted/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridu20/Leetcode_accepted/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/0496-next-greater-element-i) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Mridu20/Leetcode_accepted/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
