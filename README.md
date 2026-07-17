@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mridu20/Leetcode_accepted/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mridu20/Leetcode_accepted/tree/master/3620-network-recovery-pathways) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mridu20/Leetcode_accepted/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mridu20/Leetcode_accepted/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mridu20/Leetcode_accepted/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridu20/Leetcode_accepted/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2574-left-and-right-sum-differences) |
 | [2714-left-and-right-sum-differences](https://github.com/Mridu20/Leetcode_accepted/tree/master/2714-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -557,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mridu20/Leetcode_accepted/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -601,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mridu20/Leetcode_accepted/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -887,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mridu20/Leetcode_accepted/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 ## Shortest Path
 |  |
 | ------- |
