@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Mridu20/Leetcode_accepted/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mridu20/Leetcode_accepted/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Mridu20/Leetcode_accepted/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/Mridu20/Leetcode_accepted/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Mridu20/Leetcode_accepted/tree/master/1642-water-bottles) |
 | [1922-count-good-numbers](https://github.com/Mridu20/Leetcode_accepted/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mridu20/Leetcode_accepted/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Mridu20/Leetcode_accepted/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Mridu20/Leetcode_accepted/tree/master/2481-strictly-palindromic-number) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mridu20/Leetcode_accepted/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mridu20/Leetcode_accepted/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mridu20/Leetcode_accepted/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mridu20/Leetcode_accepted/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
