@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Mridu20/Leetcode_accepted/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mridu20/Leetcode_accepted/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Mridu20/Leetcode_accepted/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Mridu20/Leetcode_accepted/tree/master/1020-number-of-enclaves) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Mridu20/Leetcode_accepted/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mridu20/Leetcode_accepted/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Mridu20/Leetcode_accepted/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mridu20/Leetcode_accepted/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Mridu20/Leetcode_accepted/tree/master/0994-rotting-oranges) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Mridu20/Leetcode_accepted/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mridu20/Leetcode_accepted/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Mridu20/Leetcode_accepted/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mridu20/Leetcode_accepted/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Mridu20/Leetcode_accepted/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Mridu20/Leetcode_accepted/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/Mridu20/Leetcode_accepted/tree/master/3620-network-recovery-pathways) |
 ## Iterator
 |  |
