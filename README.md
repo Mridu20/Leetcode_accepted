@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Mridu20/Leetcode_accepted/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Mridu20/Leetcode_accepted/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mridu20/Leetcode_accepted/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Mridu20/Leetcode_accepted/tree/master/0735-asteroid-collision) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/Mridu20/Leetcode_accepted/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mridu20/Leetcode_accepted/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mridu20/Leetcode_accepted/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Mridu20/Leetcode_accepted/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mridu20/Leetcode_accepted/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Mridu20/Leetcode_accepted/tree/master/1642-water-bottles) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mridu20/Leetcode_accepted/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Mridu20/Leetcode_accepted/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mridu20/Leetcode_accepted/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mridu20/Leetcode_accepted/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mridu20/Leetcode_accepted/tree/master/1081-smallest-subsequence-of-distinct-characters) |
