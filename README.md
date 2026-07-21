@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mridu20/Leetcode_accepted/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/3379-score-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/Mridu20/Leetcode_accepted/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Mridu20/Leetcode_accepted/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Mridu20/Leetcode_accepted/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Mridu20/Leetcode_accepted/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mridu20/Leetcode_accepted/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
