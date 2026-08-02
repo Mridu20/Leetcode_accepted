@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Mridu20/Leetcode_accepted/tree/master/0735-asteroid-collision) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mridu20/Leetcode_accepted/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/Mridu20/Leetcode_accepted/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Mridu20/Leetcode_accepted/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mridu20/Leetcode_accepted/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/0930-binary-subarrays-with-sum) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/Mridu20/Leetcode_accepted/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Mridu20/Leetcode_accepted/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Mridu20/Leetcode_accepted/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mridu20/Leetcode_accepted/tree/master/1248-count-number-of-nice-subarrays) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Mridu20/Leetcode_accepted/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mridu20/Leetcode_accepted/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Mridu20/Leetcode_accepted/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mridu20/Leetcode_accepted/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mridu20/Leetcode_accepted/tree/master/1301-number-of-paths-with-max-score) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mridu20/Leetcode_accepted/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mridu20/Leetcode_accepted/tree/master/3222-find-the-winning-player-in-coin-game) |
