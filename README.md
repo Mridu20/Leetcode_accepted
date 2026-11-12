@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mridu20/Leetcode_accepted/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mridu20/Leetcode_accepted/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mridu20/Leetcode_accepted/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mridu20/Leetcode_accepted/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-find-words-containing-character](https://github.com/Mridu20/Leetcode_accepted/tree/master/3194-find-words-containing-character) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mridu20/Leetcode_accepted/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mridu20/Leetcode_accepted/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
